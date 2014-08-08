@@ -1,0 +1,4 @@
+newMean
+=======
+
+new Mean
